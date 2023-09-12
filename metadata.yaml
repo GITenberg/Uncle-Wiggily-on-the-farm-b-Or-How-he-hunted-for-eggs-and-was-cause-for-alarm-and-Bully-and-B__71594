@@ -1,0 +1,45 @@
+_repo: Uncle-Wiggily-on-the-farm-b-Or-How-he-hunted-for-eggs-and-was-cause-for-alarm-and-Bully-and-B__71594
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Campbell, Lang
+    alias: Campbell, Lansing
+    birthdate: 1882
+    deathdate: 1937
+    gutenberg_agent_id: '44668'
+    url: http://www.gutenberg.org/2009/agents/44668
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Davidson, Marion
+    - Garis, Howard R.
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/32638
+    - https://en.wikipedia.org/wiki/Howard_R._Garis
+description: ''
+gutenberg_issued: '2023-09-09'
+identifiers:
+  gutenberg: '71594'
+language: en
+pgterms:marc904: https://archive.org/details/unclewiggilyonfa00gari_0/mode/2up
+pgterms:marc905: 20220704161746garis
+pgterms:marc906: '1919'
+pgterms:marc907: us
+production_note: David Edwards, Brian Wilsden and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bCharles E. Graham & Co., $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Uncle Wiggily on the farm : $b Or, How he hunted for eggs and was cause for
+  alarm; and Bully and Bawly, the froggie boys; also how Uncle Wiggily helped nurse
+  Jane with the house cleaning'
+url: http://www.gutenberg.org/ebooks/71594
